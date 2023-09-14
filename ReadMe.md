@@ -1,6 +1,6 @@
 Created by laoluadewoye@gmail.com
 
-Version Number: 1.1.1
+Version Number: 1.1.3
 
 All copyright information on the GitHub page. 
 
