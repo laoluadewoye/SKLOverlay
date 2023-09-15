@@ -1,5 +1,5 @@
-from SKLOCMainOps import *
-from SKLOCRun import Algorithm_Testing
+from .SKLOCMainOps import *
+from .SKLOCRun import Algorithm_Testing
 
 
 def Classification_Menu():

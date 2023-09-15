@@ -1,6 +1,9 @@
 Created by laoluadewoye@gmail.com
 
-Version Number: 1.1.3
+Version Number: 1.2.0
+
+Version Updates: The importing structure broke so I had to redo it again. 
+I don't want to see 1.1.x ever again lmao.
 
 All copyright information on the GitHub page. 
 

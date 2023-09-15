@@ -1,4 +1,4 @@
-from SKLOCDataMods import Dataset_Config
+from .SKLOCDataMods import Dataset_Config
 import pandas as pd
 import sklearn.datasets as ds
 from random import random

@@ -1,5 +1,5 @@
 from time import time
-from SKLOCMetrics import *
+from .SKLOCMetrics import *
 from sklearn.preprocessing import (
     MaxAbsScaler,
     MinMaxScaler,

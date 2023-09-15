@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: SKLOverlay
-Version: 1.1.1
+Version: 1.2.0
 Summary: SKLearn Classification Interface
-Home-page: https://github.com/laoluadewoye/Misc-Python-Projects/tree/main/SKLearn-Overlay
+Home-page: https://github.com/laoluadewoye/SKLOverlay
 Author: Laolu Ade
 Author-email: laoluadewoye@gmail.com
 License: GPLv3
@@ -20,7 +20,10 @@ License-File: LICENSE.txt
 
 Created by laoluadewoye@gmail.com
 
-Version Number: 1.1.1
+Version Number: 1.2.0
+
+Version Updates: The importing structure broke so I had to redo it again. 
+I don't want to see 1.1.x ever again lmao.
 
 All copyright information on the GitHub page. 
 

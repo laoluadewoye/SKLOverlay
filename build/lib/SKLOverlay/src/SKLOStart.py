@@ -1,4 +1,4 @@
-from SKLOClassMenu import Classification_Menu
+from .SKLOClassMenu import Classification_Menu
 
 
 def Beware():

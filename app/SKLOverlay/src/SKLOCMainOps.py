@@ -1,9 +1,9 @@
 from os.path import isdir
 from textwrap import wrap
-from SKLOCDatasets import Dataset_Setup_Local, Dataset_Setup_Sample
-from SKLOCDataMods import Dataset_Config
-from SKLOCRun import Auto_Alg_Testing
-from SKLOCCustom.SKLOCCMain import Customize_Classifier, Customize_Classifier_Batch
+from .SKLOCDatasets import Dataset_Setup_Local, Dataset_Setup_Sample
+from .SKLOCDataMods import Dataset_Config
+from .SKLOCRun import Auto_Alg_Testing
+from .SKLOCCustom.SKLOCCMain import Customize_Classifier, Customize_Classifier_Batch
 
 
 def List_Classifiers(sessionClassifiers):
